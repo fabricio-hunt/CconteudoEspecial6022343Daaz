@@ -14,7 +14,6 @@ body{
     overflow: hidden;
     text-align: center;
     background: #000;
-
 }
 
 .imagem{
@@ -38,6 +37,7 @@ body{
     color: #fff;
     padding-top: 2px;
     font-family: 'Montserrat', sans-serif;
+    padding-top: 15px;
     font-weight: 700;
     margin-top: 10px;
     margin-bottom: 1px;
